@@ -1,0 +1,20 @@
+@font-face{
+    font-family: "Fira Sans";
+	src: url('Fira_Sans/FiraSans-Regular.ttf');
+}
+html{
+    font-family: "Fira Sans";
+}
+.text-gold{
+    color: #C8AD7F;
+}
+
+footer{
+    bottom : 0;
+    position : absolute;
+    width: 100%;
+    color:white;
+}
+.custom-range {
+    background: red;
+  }
