@@ -1,0 +1,36 @@
+.slideMenu{
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    top : 0;
+    left: 0;
+    background: #AABBD4    ;
+    margin-left: -290px;
+    transition : 0.5s;
+    z-index: 2;
+}
+.expand-arrow{
+    width: 25px;
+    transition: 0,5s;
+    position : fixed;
+    bottom: 70%;
+    cursor: pointer;
+    z-index: 1;
+}
+.close-icon{
+    width: 20px;
+
+    position: relative;
+    cursor: pointer;
+}
+.link {
+    display: block;
+
+}
+.link h5{
+    padding-top: 20px;
+}
+.input-group{
+    padding: 20px;
+    width: 50%;
+}
